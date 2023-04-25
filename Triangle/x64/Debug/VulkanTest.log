@@ -1,3 +1,0 @@
-﻿  main.cpp
-LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
-  VulkanTest.vcxproj -> C:\Users\jing\Source\Repos\VulkanTest\x64\Debug\VulkanTest.exe
